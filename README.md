@@ -1,7 +1,8 @@
-# git/github 입문
+# git/github
 ## git 입문했어요!
 ![Image of octocat]
-(https://octodex.github.com/images/welcometocat.png)
+<img src="https://octodex.github.com/images/welcometocat.png" height="200"> 으로 수정
+
 
 
 
@@ -10,6 +11,6 @@
 
 
 
- 
+
 # git/github 튜토리얼
 >[https://github.com/GreatBean](https://github.com/GreatBean)
