@@ -1,7 +1,7 @@
 # git/github
 ## git 입문했어요!
 ![Image of octocat]
-<img src="https://octodex.github.com/images/welcometocat.png" height="300"> 으로 수정
+<img src="https://octodex.github.com/images/welcometocat.png" height="200"> 으로 수정
 
 
 
